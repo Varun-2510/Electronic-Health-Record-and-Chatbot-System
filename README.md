@@ -50,4 +50,9 @@ Implemented Firebase for real-time data handling and SQL databases for robust re
 
 
 ## Created By:
-<b><i>Varun Hatkar</i></b> , <b><i>Tanmay Halde</i></b> , <b><i>Akash Jagdale</i></b> , <b><i>Prasham Jain</i></b><br><br>
+**[Varun Hatkar](https://github.com/Varun-2510 )**,
+**[Tanmay Halde](https://github.com/HaldeTanmay)**,
+**[Akash Jagdale](https://github.com/Akash-Jagdale-707)**,
+**[Prasham Jain](https://github.com/prashamjain01)**
+
+
