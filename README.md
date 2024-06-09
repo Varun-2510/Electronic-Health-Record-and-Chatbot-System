@@ -24,7 +24,7 @@ Implemented Firebase for real-time data handling and SQL databases for robust re
 
 ## Technologies Used:
 
-### HTML , CSS , REACT JS , FIREBASE
+### HTML , CSS , REACT JS , FIREBASE , PYTHON FLASK
 
 ### Blockchain: For secure EHR storage
 
