@@ -23,9 +23,8 @@ Utilized HTML, CSS, and JS to create a responsive and user-friendly interface, e
 Implemented Firebase for real-time data handling and SQL databases for robust record management, ensuring efficient and reliable data storage and retrieval.
 
 ## Technologies Used:
-### Frontend: HTML, CSS, JS
 
-### Backend: Firebase, SQL
+### HTML , CSS , REACT JS , FIREBASE
 
 ### Blockchain: For secure EHR storage
 
