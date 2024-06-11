@@ -5,7 +5,8 @@ This system utilizes blockchain technology to ensure the security and immutabili
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-I developed an innovative Electronic Healthcare Record (EHR) and Chatbot System as a final-year project, leveraging blockchain technology for secure and immutable patient and doctor records. The system features a chatbot to predict and diagnose patient symptoms. The front end uses HTML, CSS, and JS, while Firebase and SQL databases manage backend data storage and retrieval.
+I developed an innovative Electronic Healthcare Record (EHR) and Chatbot System as a final-year project, leveraging blockchain technology for secure and immutable patient and doctor records.
+The system features a chatbot to predict and diagnose patient symptoms. The front end uses HTML, CSS, and REACT JS, while Firebase databases manage data storage and retrieval.
 This project demonstrates proficiency in web development and blockchain applications for healthcare solutions.
 
 ## Key Features:
@@ -17,9 +18,9 @@ Employed blockchain for secure, tamper-proof storage of EHRs, ensuring data inte
 Developed an intelligent chatbot capable of predicting and diagnosing patient symptoms based on user input, enhancing early detection and personalized healthcare.
 
 ### Frontend Development: 
-Utilized HTML, CSS, and JS to create a responsive and user-friendly interface, ensuring seamless interaction for users.
+Utilized HTML, CSS, and REACT JS to create a responsive and user-friendly interface, ensuring seamless interaction for users.
 
-### Backend Management: 
+### Database Management: 
 Implemented Firebase for real-time data handling and SQL databases for robust record management, ensuring efficient and reliable data storage and retrieval.
 
 ## Technologies Used:
